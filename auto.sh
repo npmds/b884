@@ -5,5 +5,5 @@ echo "====git auto push start..."
 echo $commit_name
 git add .
 git commit -m $commit_name
-git push origin master
+git push origin
 echo "====git auto push end..."
